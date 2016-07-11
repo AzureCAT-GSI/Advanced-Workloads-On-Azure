@@ -1,4 +1,4 @@
-# Advanced-Workloads-On-Azure
+# Advanced Workloads On Azure
 Advanced workloads such as SAP or Oracle on Azure represents a significant sales opportunity for any Systems Integrator. Customers with an investment in the workloads face a significant cost to provide environments for developers and testers that can be easily offset by hosting this workload in Azure.  This session will demonstrate the potential cost savings to the customer while providing architects the guidance.
 
 ## Presentation
