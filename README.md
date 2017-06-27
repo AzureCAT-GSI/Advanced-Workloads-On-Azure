@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Advanced Workloads On Azure
 Advanced workloads such as SAP or Oracle can run on Azure side-by-side with other types of workloads you deploy to Azure. Customers with an investment in these workloads face a significant cost to provide environments for developers and testers that can be easily offset by hosting this workload in Azure. This session focuses on ensuring a workload can run on Azure, capacity planning, and security aspects, and provides architectural guidance. 
 
